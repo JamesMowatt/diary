@@ -1,0 +1,24 @@
+{
+    "name": "jmowatt/diary",
+    "description": "A class for creating timeline diaries",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "^1.22"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Mowatt",
+            "email": "james@james-mowatt.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "jmowatt\\Diary\\": "src/"
+        }
+    }
+}

@@ -13,6 +13,7 @@ class Event
 
     /**
      * Event constructor.
+     *
      * @param Carbon $date
      */
     public function __construct(Carbon $date)

@@ -1,2 +1,2 @@
 # diary
-An class for create timeline diaries
+An class for creating timeline diaries
